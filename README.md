@@ -9,9 +9,9 @@ Unzip futureskills-master.zip.
 
 You need the following 2 files:
 
-  java-spring-library-project-v2.0.pdf
+1) java-spring-library-project-v2.0.pdf
 
-  bootcamp-install-environments-v2.0.pdf
+2) bootcamp-install-environments-v2.0.pdf
 
 Read the following for instructions: java-spring-library-project-v2.0.pdf
 
